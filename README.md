@@ -84,7 +84,7 @@ Make it executable:
 
 ```bash
 chmod +x fix_dns.sh
-./fix_dns.sh
+bash fix_dns.sh
 ```
 
 ---
